@@ -1,0 +1,2 @@
+model_checkpoint_path: "classifier-model-v7-2-layers"
+all_model_checkpoint_paths: "classifier-model-v7-2-layers"
